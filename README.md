@@ -36,7 +36,7 @@ And start it!
  - [Recriei a interface do Spotify usando Tailwind - Rocketseat](https://www.youtube.com/watch?v=YVI-q3idGiM)
 
 
-## Licence
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
