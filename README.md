@@ -1,6 +1,10 @@
 # Spotify UI Clone
 
 A Spotify UI Clone made with SvelteKit and TailwindCSS.
+
+![App Screenshot](https://i.imgur.com/XUIOg2T.png)
+
+
 ## Running it!
 
 Clone the project
@@ -35,3 +39,4 @@ And start it!
 ## Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
